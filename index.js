@@ -1,2 +1,6 @@
 const age=23;
-const num=53;
+const num1=53;
+
+function isAbove18(){
+    return age >= 18;
+}

@@ -1,4 +1,4 @@
-function add(a,mum2)
+function add(a,b)
 {
-    return a+num2 ;
+    return a+b;
 }
